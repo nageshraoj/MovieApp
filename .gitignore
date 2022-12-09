@@ -1,0 +1,7 @@
+**/**/obj/
+**/**/lib/
+**/**/bin/
+**/**/node_modules/
+**/**/logs/
+**/**/Migrations/
+**/node_modules/
